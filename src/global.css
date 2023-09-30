@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    color: #fff;
+    background: #383d53;
+    font-family: sans-serif;
+}
+
+main {
+    margin: 0 33px;
+}
+
+header {
+    padding: 10px 30px;
+}
+
+header h1 {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+footer {
+    height: 100px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer .copyright {
+    font-size: 14px;
+    color: #000000;
+    text-align: center;
+}
+footer .copyright a {
+    color: #000000;
+}
+footer .copyright a:hover {
+    color: #ffffff;
+}
+footer .copyright:before {
+    content: '©';
+}
+
+.info {
+    display: flex;
+    padding: 15px 0;
+}
+
+.github {
+    margin: 0 10px;
+}
+
+.creation-date {
+    margin: auto 10px;
+}
+
+.rsshool {
+    margin: 0 10px;
+}
+
+.github-img {
+    height: 48px;
+    width: 48px;
+}
+
+.rsschool-img {
+    height: 48px;
+    width: 96px;
+}

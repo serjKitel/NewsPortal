@@ -1,1 +1,1 @@
-# NewsPortal
+# news-JS
